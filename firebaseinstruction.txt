@@ -1,0 +1,54 @@
+Open firebase
+-------------
+project settings config -> firebase.js.
+authen->signin->email and poss enable.
+
+Installing firebase in react folder
+-----------------------------------
+npm i firebase- installation
+
+Cloud function
+---------------
+1.firebase init(in the react folder)
+2.function configure and deploy cloud function
+3.javascript
+4.Y
+5.Y
+
+Deploy
+------
+Backend(node) deploy to cloud
+-----------------------------
+firebase deploy --only functions (deploy the function should be in function folder).
+
+Frontend deploy with buid
+-------------------------
+npm run build
+firebase deploy --only hosting.
+firebase init
+hosting configure and deploy firebase hosting sites
+build
+yes.
+
+Deploy  Frontend along with building
+------------------------------------
+npm run build && firebase deploy --only hosting
+
+Reference:-https://www.youtube.com/watch?v=sB2b3ZYMQgg&list=PL-J2q3Ga50oNQP__onO64kAHX_z0BdLv6&index=7
+
+-------------------------------------------------------------------------------------------------------
+
+
+
+firebase project name - amazon clone (account-anantheshalsear@gmail.com).
+stripe-(anantheshalsear@gmail.com-Alse@Stripe)
+
+
+
+
+
+
+
+
+
+
